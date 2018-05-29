@@ -1,0 +1,20 @@
+<classroom>
+	<desks count = "11"></desks>
+	<chairs count = "16"></chairs>
+	<teachers>
+		<mr_gold allergic="hard work"></mr_gold>
+	</teachers>
+	<students>
+		<borowiec age="10" >This milk has expired</borowiec>
+		<craden>Indeed indeed</craden>
+		<stewart leader="y" age="17">yeah</stewart>
+		<mcnee>no idear</mcnee>
+		<goetz>greetings</goetz>
+		<fairfield>I don't know</fairfield>
+		<monroy>Hi</monroy>
+		<lee>Dog</lee>
+		<harris>wombat</harris>
+		<bodin>cat</bodin>
+		<ski>a really sad sounding awww</ski>
+	</students>			
+</classroom>
